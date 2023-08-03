@@ -17,14 +17,12 @@
       {
         "id": 1,
         "name": "Deposito",
-        "value": 150,
-        "owner": "Isaac"
+        "value": 150
       },
       {
         "id": 2,
         "name": "Saque",
-        "value": 150,
-        "owner": "Isaac"
+        "value": 150
       }
     ]
 }
