@@ -1,16 +1,16 @@
 {
-    "transactions": [
-      {
-        "id": 1,
-        "name": "Deposito",
-        "value": 150,
-        "owner": "Isaac"
-      },
-      {
-        "id": 2,
-        "name": "Saque",
-        "value": 150,
-        "owner": "Isaac"
-      }
-    ]
-  }
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, mundo!",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com Javascript",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    }
+  ]
+}
