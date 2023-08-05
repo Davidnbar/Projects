@@ -16,12 +16,12 @@
   "transactions": [
       {
         "id": 1,
-        "name": "Deposito",
+        "name": "deposit",
         "value": 150
       },
       {
         "id": 2,
-        "name": "Saque",
+        "name": "withdraw",
         "value": 150
       }
     ]
